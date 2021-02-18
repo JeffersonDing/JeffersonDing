@@ -26,7 +26,6 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="45"/>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"/>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"/> 
     <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="75"/>
