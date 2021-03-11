@@ -10,7 +10,7 @@
   - 🎓 &nbsp; Studying at Upper Canada College | Class of 2023
   - 💼 &nbsp; I’m currently working on [LogX](https://github.com/JeffersonDing/LogX)
   - 🌱 &nbsp; Learning and persuing Competitive Programming and CTF competitions.
-  - ✍️ &nbsp; Researching Cryptography and Quantum Computing.
+  - ✍️ &nbsp; Researching and Learning Cryptography and Blockchain.
 </div> 
 
 ### Connect with me:
