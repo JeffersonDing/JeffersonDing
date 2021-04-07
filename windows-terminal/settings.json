@@ -126,19 +126,19 @@
     { "command": "tabSearch", "keys": "ctrl+shift+s" },
     {
       "command": { "action": "moveFocus", "direction": "down" },
-      "keys": "ctrl+e"
+      "keys": "ctrl+down"
     },
     {
       "command": { "action": "moveFocus", "direction": "left" },
-      "keys": "ctrl+n"
+      "keys": "ctrl+left"
     },
     {
       "command": { "action": "moveFocus", "direction": "right" },
-      "keys": "ctrl+i"
+      "keys": "ctrl+right"
     },
     {
       "command": { "action": "moveFocus", "direction": "up" },
-      "keys": "ctrl+u"
+      "keys": "ctrl+up"
     },
     {
       "command": { "action": "splitPane", "split": "horizontal" },
@@ -148,22 +148,28 @@
       "command": { "action": "splitPane", "split": "vertical" },
       "keys": "ctrl+shift+i"
     },
+    { "command": "closePane", "keys": "ctrl+q" },
     {
-      "command": { "action": "resizePane", "direction": "down" },
-      "keys": "ctrl+down"
+      "command": {
+        "action": "sendInput",
+        "input": "kex -s -m\n"
+      },
+      "keys": "f9"
+    },
+    { "command": "unbound", "keys": "ctrl+\\" },
+    {
+      "command": {
+        "action": "sendInput",
+        "input": "/mnt/c/Users/tydin/"
+      },
+      "keys": "f12"
     },
     {
-      "command": { "action": "resizePane", "direction": "left" },
-      "keys": "ctrl+left"
-    },
-    {
-      "command": { "action": "resizePane", "direction": "right" },
-      "keys": "ctrl+right"
-    },
-    {
-      "command": { "action": "resizePane", "direction": "up" },
-      "keys": "ctrl+up"
-    },
-    { "command": "closePane", "keys": "ctrl+q" }
+      "command": {
+        "action": "sendInput",
+        "input": "| clip.exe\n"
+      },
+      "keys": "f10"
+    }
   ]
 }
