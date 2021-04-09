@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring in the field of full stack development.
+  - 🤔 &nbsp; Exploring full stack development.
   - 🏆 &nbsp; Loves Hacking and Cybersecurity.
   - 🎓 &nbsp; Studying at Upper Canada College | Class of 2023
   - 💼 &nbsp; I’m currently working on [jeffersonding.com](https://jeffersonding.com)
