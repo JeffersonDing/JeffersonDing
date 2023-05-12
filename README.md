@@ -1,16 +1,11 @@
-<h1 align="center">Hey there! I'm Jefferson Ding 👋 </h1>
-<h3 align="center">🏫 Student at Upper Canada College 🏫</h3>
-<h4 align="center">💻Full Stack Development | 🏆Competitive Programming | 🔐Cybersecurity | 🚩CTF </h4>
+<h1 align="center">I'm Jefferson Ding</h1>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring full stack development.
-  - 🏆 &nbsp; Loves Hacking and Cybersecurity.
-  - 🎓 &nbsp; Studying at Upper Canada College | Class of 2023
-  - 💼 &nbsp; I’m currently working on [jeffersonding.com](https://jeffersonding.com)
-  - 🌱 &nbsp; Learning and persuing Competitive Programming and CTF competitions.
-  - ✍️ &nbsp; Researching and Learning Cryptography and Blockchain.
+  - 🤔 &nbsp; Full stack developer
+  - 🏆 &nbsp; Loves hacking, cbersecurity and CTF competitions
+  - 🎓 &nbsp; University of Pennsylvania '27 | Upper Canada College '23
 </div> 
 
 ### Connect with me:
@@ -22,7 +17,7 @@
 <br />
 
 </div>
-
+<!-- 
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
@@ -39,3 +34,4 @@
     <img src="https://cdn.svgporn.com/logos/aws.svg" width="50"/>
     <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="30"/>
 </div> 
+ -->
