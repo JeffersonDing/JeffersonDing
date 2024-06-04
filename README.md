@@ -4,7 +4,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Full stack developer
-  - 🏆 &nbsp; Loves hacking, cbersecurity and CTF competitions
+  - 🏆 &nbsp; Loves hacking, cybersecurity and CTF competitions
   - 🎓 &nbsp; University of Pennsylvania '27 | Upper Canada College '23
 </div> 
 
